@@ -1,3 +1,3 @@
 # NetMagic_Debuger
 debuger for netmagic
-made from NUDT
+made by FrankXzz from NUDT
